@@ -15,7 +15,7 @@ Marketing and sales leadership needed to see, in one place, how each campaign an
 ## What I built
 
 - **Campaigns** and **Blasts** views with filters by period, campaign, source and blast.
-- **Automatic refresh** every morning at 08:00 (Brasília) plus an on-demand "Refresh now".
+- **Automatic refresh** every morning at 8:00 a.m. Brasília time plus an on-demand "Refresh now".
 - **Print** (A4 landscape) and **Export to Excel** — one sheet per view, only the filtered data.
 - **Read-only by design**: the dashboard never writes back to the CRM.
 
